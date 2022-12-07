@@ -22,7 +22,8 @@
   - CONTEÚDOS
   - INFORMAÇÕES
 
-  [Criando a sua primeira criptomoeda da rede Ethereum](https://web.dio.me/lab/criando-a-sua-primeira-criptomoeda-da-rede-ethereum/learning/9d1d59c9-7f52-4f40-a3d5-34ceade43764)[Materiais de apoio](https://web.dio.me/lab/criando-a-sua-primeira-criptomoeda-da-rede-ethereum/learning/dd09dbb2-a880-4483-90a8-a8d27cce6ef0)
+  - [Criando a sua primeira criptomoeda da rede Ethereum](https://web.dio.me/lab/criando-a-sua-primeira-criptomoeda-da-rede-ethereum/learning/9d1d59c9-7f52-4f40-a3d5-34ceade43764)
+  - [Materiais de apoio](https://web.dio.me/lab/criando-a-sua-primeira-criptomoeda-da-rede-ethereum/learning/dd09dbb2-a880-4483-90a8-a8d27cce6ef0)
 
   
 
